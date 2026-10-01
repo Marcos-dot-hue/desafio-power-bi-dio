@@ -107,6 +107,48 @@ Foram utilizados:
 - ordenação dos produtos por desempenho;
 - rótulos de dados para facilitar a interpretação dos resultados.
 
+- ---
+
+## 🛠️ Tecnologias e Recursos Utilizados
+
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Modelagem e análise de dados
+- Visualizações interativas
+- Segmentações e filtros
+- Git e GitHub para versionamento e documentação
+
+- ---
+
+## 📁 Estrutura do Repositório
+
+```text
+desafio-power-bi-dio/
+│
+├── Desafio_PowerBI_DIO_Marcos_Roberto.pbix
+├── README.md
+│
+└── images/
+    ├── dashboard-financeiro.png
+    ├── analise-geografica.png
+    └── analise-produtos.png
+
+```
+
+---
+
+## 🚀 Conclusão
+
+Este projeto permitiu consolidar conhecimentos fundamentais de **Business Intelligence e análise de dados com Power BI**, desde a construção dos indicadores até a organização e validação das visualizações.
+
+Além de atender aos requisitos do desafio da DIO, o relatório foi ampliado com análises complementares de produtos, indicadores e filtros interativos, resultando em um projeto que também pode ser utilizado como parte do meu portfólio profissional.
+
+O desenvolvimento reforçou a importância de transformar dados em informações claras, estruturadas e úteis para apoiar análises e tomadas de decisão.
+
+---
+
+**Desenvolvido por Marcos Roberto como parte do desafio de Power BI da DIO.**
+
 Também foi criada uma medida em **DAX** para identificar dinamicamente o produto líder em vendas. No conjunto de dados analisado, o produto **Paseo** apresentou a liderança.
 
 Essa página complementa as análises financeira e geográfica, permitindo comparar o desempenho comercial e a rentabilidade dos diferentes produtos.
